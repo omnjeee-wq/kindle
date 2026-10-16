@@ -2,6 +2,7 @@
   "name": "kindle-api",
   "license": "MIT",
   "version": "1.4.0",
+  "packageManager": "pnpm@8.15.9",
   "type": "module",
   "types": "./dist/esm/kindle.d.ts",
   "main": "./dist/cjs/kindle.js",
